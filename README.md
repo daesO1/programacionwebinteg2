@@ -1,2 +1,3 @@
-# programacionwebinteg2
-Programación aplicada a la web - Proyecto Integrador unidad 2
+# derechoinforinteg2
+Universidad LUX Derecho Informatico Proyecto Integrador 2
+Este template HTML puede ser utilizado libremente.
